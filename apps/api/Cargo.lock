@@ -15,6 +15,7 @@ dependencies = [
  "anyhow",
  "axum",
  "dotenvy",
+ "http-body-util",
  "serde_json",
  "tokio",
  "tower",
