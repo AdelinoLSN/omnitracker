@@ -26,3 +26,7 @@ rustc-ice-*.txt
 # Editors
 .vscode
 .idea
+
+# Environment
+.env*
+!.env.example
