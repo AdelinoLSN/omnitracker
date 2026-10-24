@@ -17,6 +17,7 @@ dependencies = [
  "dotenvy",
  "serde_json",
  "tokio",
+ "tower",
 ]
 
 [[package]]
